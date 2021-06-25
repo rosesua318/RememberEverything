@@ -31,7 +31,10 @@
 3. 대형쇼핑몰 리스트 (휴무일 한눈에 보이기 위해 밝은 색으로 강조)  
   ![KakaoTalk_20210626_015935371](https://user-images.githubusercontent.com/71651038/123461231-d030f180-d623-11eb-801b-f225076245c3.jpg)
 
-3-1. 리스트 중 아이템 항목 클릭시 상세정보 - 전화걸기, 단골가게 추가
+3-1. 리스트 중 아이템 항목 클릭시 상세정보 - 전화걸기, 단골가게 추가  
+  ![KakaoTalk_20210626_015934848](https://user-images.githubusercontent.com/71651038/123462823-bf817b00-d625-11eb-9dbe-1acf284b7703.jpg)
+> 전화걸기 버튼 클릭시  
+> 
 
 4. 음식점 리스트 (휴무일 한눈에 보이기 위해 밝은 색으로 강조)  
   ![KakaoTalk_20210626_015935192](https://user-images.githubusercontent.com/71651038/123461358-fc4c7280-d623-11eb-88c3-ffb0a203098c.jpg)
