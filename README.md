@@ -36,7 +36,7 @@
 > (1) 전화걸기 버튼 클릭시  
 > ![KakaoTalk_20210626_015934692](https://user-images.githubusercontent.com/71651038/123463019-fc4d7200-d625-11eb-9111-baa7d425a951.jpg)  
 > (2) 단골가게 추가 버튼 클릭시 - 파이어베이스에 저장됨
-> 
+> ![KakaoTalk_20210626_015934531](https://user-images.githubusercontent.com/71651038/123463235-3d458680-d626-11eb-9adf-dd4223c81402.jpg)
 
 
 4. 음식점 리스트 (휴무일 한눈에 보이기 위해 밝은 색으로 강조)  
