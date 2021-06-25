@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="오늘 날씨의 추천 음식"
+        android:textAlignment="center"
+        android:textColor="#26b99d"
+        android:textSize="45dp"
+        android:textStyle="bold"
+        android:layout_marginBottom="30dp"/>
+    <ImageView
+        android:id="@+id/simg"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/shop"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/foodname"
+        android:textSize="40dp"
+        android:textColor="#89dbfb"
+        android:text="메뉴이름"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/plus"
+        android:textSize="20dp"
+        android:textColor="#d6e6e6"
+        android:text="세부설명"/>
+    <LinearLayout
+        android:layout_marginTop="20dp"
+        android:padding="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        <Button
+            android:id="@+id/retryBtn"
+            android:layout_weight="1"
+            android:layout_marginRight="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#51aaaf"
+            android:text="추천 다시하기"/>
+        <Button
+            android:id="@+id/backBtn"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#51aaaf"
+            android:text="돌아가기"/>
+    </LinearLayout>
+</LinearLayout>

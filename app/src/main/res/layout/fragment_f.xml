@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="오늘 날씨"
+        android:textAlignment="center"
+        android:textSize="50dp"
+        android:textStyle="bold"
+        android:textColor="#26b99d"
+        android:layout_marginBottom="20dp"/>
+    <ImageView
+        android:id="@+id/wimg"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/shop"
+        android:layout_marginBottom="30dp"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/temp"
+        android:textSize="25dp"
+        android:textColor="#89dbfb"
+        android:text="기온"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pm10"
+        android:textSize="25dp"
+        android:text="미세먼지"/>
+    <TextView
+        android:textAlignment="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/pm25"
+        android:textSize="25dp"
+        android:text="초미세먼지"
+        android:layout_marginBottom="20dp"/>
+    <LinearLayout
+        android:layout_marginTop="5dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="10dp">
+        <Button
+            android:id="@+id/menuBtn"
+            android:layout_weight="1"
+            android:layout_marginRight="5dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#51aaaf"
+            android:text="메뉴 추천"/>
+        <Button
+            android:id="@+id/shopBtn"
+            android:layout_weight="1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#51aaaf"
+            android:text="음식점 추천"/>
+    </LinearLayout>
+</LinearLayout>

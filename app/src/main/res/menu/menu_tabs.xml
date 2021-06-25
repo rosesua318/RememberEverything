@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/tab1"
+        android:enabled="true"
+        android:icon="@android:drawable/ic_media_play"
+        android:title="대형쇼핑몰 리스트"/>
+    <item
+        android:id="@+id/tab2"
+        android:icon="@android:drawable/ic_menu_gallery"
+        android:title="음식점 리스트"/>
+    <item
+        android:id="@+id/tab3"
+        android:icon="@android:drawable/ic_dialog_map"
+        android:title="구글맵으로 보기"/>
+</menu>

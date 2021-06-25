@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item1"
+            android:icon="@android:drawable/ic_popup_reminder"
+            android:title="사용자 단골 가게 목록"/>
+        <item
+            android:id="@+id/item2"
+            android:icon="@android:drawable/ic_menu_today"
+            android:title="캘린더 장보기 메모"/>
+        <item
+            android:id="@+id/item4"
+            android:icon="@android:drawable/ic_menu_search"
+            android:title="날씨(미세먼지) 기반 추천"/>
+        <item
+            android:id="@+id/item3"
+            android:icon="@android:drawable/ic_delete"
+            android:title="로그아웃"/>
+    </group>
+</menu>

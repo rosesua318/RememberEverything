@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "296298541918",
+    "project_id": "myshoplist-cd0cc",
+    "storage_bucket": "myshoplist-cd0cc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:296298541918:android:edc5e40abc2806e87355cf",
+        "android_client_info": {
+          "package_name": "com.example.myremebereverything"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "296298541918-0b6p3p515g2d4n40pbmum1a4k8b2t15r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7sJSoJPCR7zay8fNlxI9gcBLQ6bPvo6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "296298541918-0b6p3p515g2d4n40pbmum1a4k8b2t15r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
