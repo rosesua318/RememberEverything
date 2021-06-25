@@ -58,5 +58,5 @@
   ![KakaoTalk_20210626_015924057](https://user-images.githubusercontent.com/71651038/123463766-e0969b80-d626-11eb-8011-4f30b2d8ce64.jpg)
 
 10. 날씨와 미세먼지 기반 주변 음식점 추천  
-
+  ![KakaoTalk_20210626_015923795](https://user-images.githubusercontent.com/71651038/123463898-0de34980-d627-11eb-9edb-6bd1f91d0310.jpg)
 
