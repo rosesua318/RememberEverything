@@ -23,5 +23,8 @@
 -----------------
 1. 스플래시 화면  
    ![KakaoTalk_20210626_015935529](https://user-images.githubusercontent.com/71651038/123460519-b6db7580-d622-11eb-9734-5bad23d1bae1.jpg)
+
 2. 로그인 화면  
- 
+ ![KakaoTalk_20210626_015924527](https://user-images.githubusercontent.com/71651038/123460793-25203800-d623-11eb-923b-13b84a130c57.jpg)
+
+3. 대형쇼핑몰 리스트 (휴무일 한눈에 보이기 위해 밝은 색으로 강조)
