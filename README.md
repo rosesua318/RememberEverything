@@ -25,6 +25,6 @@
    ![KakaoTalk_20210626_015935529](https://user-images.githubusercontent.com/71651038/123461103-9b249f00-d623-11eb-9979-3694a22efc65.jpg)
    
 2. 로그인 화면  
- ![KakaoTalk_20210626_015924527](https://user-images.githubusercontent.com/71651038/123460793-25203800-d623-11eb-923b-13b84a130c57.jpg)
+ ![KakaoTalk_20210626_015924527](https://user-images.githubusercontent.com/71651038/123461169-b8596d80-d623-11eb-854e-8a7580a08970.jpg)
 
 3. 대형쇼핑몰 리스트 (휴무일 한눈에 보이기 위해 밝은 색으로 강조)
