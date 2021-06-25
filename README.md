@@ -31,6 +31,8 @@
 3. 대형쇼핑몰 리스트 (휴무일 한눈에 보이기 위해 밝은 색으로 강조)  
   ![KakaoTalk_20210626_015935371](https://user-images.githubusercontent.com/71651038/123461231-d030f180-d623-11eb-801b-f225076245c3.jpg)
 
+3-1. 리스트 중 아이템 항목 클릭시 상세정보 - 전화걸기, 단골가게 추가
+
 4. 음식점 리스트 (휴무일 한눈에 보이기 위해 밝은 색으로 강조)  
   ![KakaoTalk_20210626_015935192](https://user-images.githubusercontent.com/71651038/123461358-fc4c7280-d623-11eb-88c3-ffb0a203098c.jpg)
   
@@ -41,4 +43,6 @@
   ![KakaoTalk_20210626_021706348](https://user-images.githubusercontent.com/71651038/123462411-42560600-d625-11eb-9226-277121808e1a.jpg)
 
 7. 단골가게 목록 - 사용자 별로 단골가게 추가 및 삭제 가능(파이어베이스에 사용자 구분해서 저장)  
+  ![KakaoTalk_20210626_015934360](https://user-images.githubusercontent.com/71651038/123462528-687ba600-d625-11eb-8b3e-25ca7aa58ac2.jpg)
 
+8. 캘린더 형식의 메모장
