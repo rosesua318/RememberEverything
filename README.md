@@ -22,4 +22,6 @@
 ## 어플 실행 화면
 -----------------
 1. 스플래시 화면  
-    https://user-images.githubusercontent.com/71651038/123460519-b6db7580-d622-11eb-9734-5bad23d1bae1.jpg
+   ![KakaoTalk_20210626_015935529](https://user-images.githubusercontent.com/71651038/123460519-b6db7580-d622-11eb-9734-5bad23d1bae1.jpg)
+2. 로그인 화면  
+ 
