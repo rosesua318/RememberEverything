@@ -38,4 +38,7 @@
   ![KakaoTalk_20210626_015924387](https://user-images.githubusercontent.com/71651038/123462216-fa36e380-d624-11eb-8a29-d99072a89f11.jpg)
 
 6. 드로어  
+  ![KakaoTalk_20210626_015935192](https://user-images.githubusercontent.com/71651038/123461358-fc4c7280-d623-11eb-88c3-ffb0a203098c.jpg)
+
+7. 단골가게 목록 - 사용자 별로 단골가게 추가 및 삭제 가능(파이어베이스에 사용자 구분해서 저장)  
 
