@@ -44,7 +44,7 @@
   ![KakaoTalk_20210626_015935192](https://user-images.githubusercontent.com/71651038/123461358-fc4c7280-d623-11eb-88c3-ffb0a203098c.jpg)
   
 5. 구글맵으로 보기 - 사용자 위치 기반으로 현재 영업중인 가게만 마커로 표시
-  ![KakaoTalk_20210626_015924387](https://user-images.githubusercontent.com/71651038/123462216-fa36e380-d624-11eb-8a29-d99072a89f11.jpg)
+  ![KakaoTalk_20210616_144402298](https://user-images.githubusercontent.com/71651038/123464698-20aa4e00-d628-11eb-9e10-63f2a5ef7937.jpg)
 
 6. 드로어  
   ![KakaoTalk_20210626_021706348](https://user-images.githubusercontent.com/71651038/123462411-42560600-d625-11eb-9226-277121808e1a.jpg)
